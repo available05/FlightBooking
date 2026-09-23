@@ -29,21 +29,32 @@ For multicity travel, the user can specify the number of destinations, and the s
 Users can select their preferred airline before proceeding to billing.
 The system calculates ticket prices according to the traveller's age and group size:
 -Travellers under 2 years old receive half-price tickets.
+
 -Travellers over 60 years old receive half-price tickets.
+
 -Groups of 5 or more travellers receive a 10% discount.
 
 # Payment
 The system provides several payment options:
 -UPI
+
 -Credit Card
+
 -Debit Card
+
 -Net Banking
+
 It also includes digital payment options:
 -Paytm
+
 -PhonePe
+
 -Google Pay
+
 -BharatPe
+
 -Amazon Pay
+
 PIN verification is required for phone-based payment options within the application.
 
 # Booking Confirmation
