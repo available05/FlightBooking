@@ -4,9 +4,13 @@ Akashayanam is a Python-based flight booking system designed for domestic air tr
 # Features
 # User Registration & Login
 -Checks whether a user already has a registered account.
+
 -Allows new users to create an account.
+
 -Generates an OTP using Python's random module.
+
 -Sends an OTP to the user's email address for verification.
+
 -Flight Booking
 
 Users can select from three travel options:
